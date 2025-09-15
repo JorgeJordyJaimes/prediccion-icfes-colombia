@@ -1,0 +1,14 @@
+# Archivos de datos
+*.parquet
+*.pkl
+
+# Configuración local de VS Code
+*.code-workspace
+.vscode/
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+
+# Archivos de Python que no se deben versionar
+__pycache__/
+*.pyc
