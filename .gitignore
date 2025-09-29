@@ -1,5 +1,4 @@
 # Archivos de datos
-*.parquet
 *.pkl
 
 # Configuración local de VS Code
