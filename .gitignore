@@ -1,6 +1,6 @@
 # Archivos de datos
 *.pkl
-prueba.ipynb
+pruebas.ipynb
 
 # Configuración local de VS Code
 *.code-workspace
