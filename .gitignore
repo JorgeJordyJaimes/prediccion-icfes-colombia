@@ -6,6 +6,9 @@ pruebas.ipynb
 *.code-workspace
 .vscode/
 
+# Configuración de JetBrains IDEs
+.idea/
+
 # Archivos temporales de Jupyter
 .ipynb_checkpoints/
 
